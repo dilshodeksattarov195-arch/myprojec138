@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingualidate",
+        "uuid": 616170,
+        "checksum": "45cw9r"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
